@@ -87,6 +87,11 @@
     <None Include="Resources\backiee-127424-landscape.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\m1_select.png" />
+    <Content Include="Resources\menu4.png" />
+    <Content Include="Resources\menu3.png" />
+    <Content Include="Resources\menu2.png" />
+    <Content Include="Resources\menu1.png" />
     <Content Include="Resources\favicon.ico" />
     <Content Include="Resources\icon.jpg" />
   </ItemGroup>
